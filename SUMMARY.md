@@ -2,7 +2,7 @@
 
 * [Welcome to Dimitri Shepherd's School Docs!](README.md)
 
-## 1st Period - Personal Finance <a href="#1st" id="1st"></a>
+## 1st Period - Personal Finance - IT Work <a href="#1st" id="1st"></a>
 
 * [N/A](1st/n-a.md)
 
