@@ -6,3 +6,4 @@ coverY: 0
 
 # Welcome to Dimitri Shepherd's School Docs!
 
+Welcome, take a seat!
