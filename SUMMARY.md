@@ -24,6 +24,7 @@
   * [Leadership](4th/notes/leadership/README.md)
     * [Lesson 1](4th/notes/leadership/lesson-1.md)
     * [Lesson 2](4th/notes/leadership/lesson-2.md)
+* [Staff Camp](4th/staff-camp.md)
 
 ## 5th Period - APUSH <a href="#5th" id="5th"></a>
 
