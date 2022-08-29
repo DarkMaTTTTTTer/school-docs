@@ -12,6 +12,7 @@
 
 ## 3rd Period - AP sem <a href="#3rd" id="3rd"></a>
 
+* [8/29/22](3rd/8-29-22.md)
 * [Reading Journal](3rd/reading-journal/README.md)
   * [Rereading 8/17](3rd/reading-journal/rereading-8-17.md)
 * [8/16/22](3rd/8-16-22.md)
