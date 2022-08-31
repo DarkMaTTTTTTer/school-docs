@@ -30,6 +30,7 @@
 ## 5th Period - APUSH <a href="#5th" id="5th"></a>
 
 * [Notes](5th/notes/README.md)
+  * [1521-1700 - American Expiriments](5th/notes/1521-1700-american-expiriments.md)
   * [1450-1600 - Colliding Worlds](5th/notes/1450-1600-colliding-worlds.md)
   * [Historical Processes](5th/notes/historical-processes.md)
 * [Textbook](5th/textbook.md)
