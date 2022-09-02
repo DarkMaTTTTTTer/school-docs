@@ -29,11 +29,11 @@
 
 ## 5th Period - APUSH <a href="#5th" id="5th"></a>
 
-* [Notes](5th/notes/README.md)
-  * [1521-1700 - American Expiriments](5th/notes/1521-1700-american-expiriments.md)
-  * [1450-1600 - Colliding Worlds](5th/notes/1450-1600-colliding-worlds.md)
-  * [Historical Processes](5th/notes/historical-processes.md)
 * [Textbook](5th/textbook.md)
+* [Notes](5th/notes/README.md)
+  * [1450-1600 - Colliding Worlds](5th/notes/1450-1600-colliding-worlds.md)
+  * [1521-1700 - American Expiriments](5th/notes/1521-1700-american-expiriments.md)
+  * [Historical Processes](5th/notes/historical-processes.md)
 
 ## 6th Period - Forensic Sci <a href="#6th" id="6th"></a>
 
