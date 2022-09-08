@@ -14,11 +14,12 @@
 
 * [Reading Journal](3rd/reading-journal/README.md)
   * [Rereading 8/17](3rd/reading-journal/rereading-8-17.md)
+  * [8/16/22](3rd/reading-journal/8-16-22.md)
+  * [8/29/22](3rd/reading-journal/8-29-22.md)
+  * [9/6/22](3rd/reading-journal/9-6-22.md)
+  * [9/8/22](3rd/reading-journal/9-8-22.md)
 * [Padlet Info](3rd/padlet-info/README.md)
   * [8/23/22](3rd/padlet-info/8-23-22.md)
-* [8/16/22](3rd/8-16-22.md)
-* [8/29/22](3rd/8-29-22.md)
-* [9/6/22](3rd/9-6-22.md)
 
 ## 4th Period - JROTC <a href="#4th" id="4th"></a>
 
