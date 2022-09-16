@@ -18,6 +18,7 @@
   * [8/29/22](3rd/reading-journal/8-29-22.md)
   * [9/6/22](3rd/reading-journal/9-6-22.md)
   * [9/8/22](3rd/reading-journal/9-8-22.md)
+  * [9/16/22](3rd/reading-journal/9-16-22.md)
 * [Padlet Info](3rd/padlet-info/README.md)
   * [8/23/22](3rd/padlet-info/8-23-22.md)
 
