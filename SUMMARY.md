@@ -44,4 +44,5 @@
 
 ## 7th Period - Career Pathways <a href="#7th" id="7th"></a>
 
-* [9/12/22](7th/n-a.md)
+* [9/22/22](7th/9-22-22.md)
+* [9/12/22](7th/9-12-22.md)
