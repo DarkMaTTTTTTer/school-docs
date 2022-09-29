@@ -34,6 +34,7 @@
 
 * [Textbook](5th/textbook.md)
 * [Notes](5th/notes/README.md)
+  * [1763-1776 - The Problem of Empire](5th/notes/1763-1776-the-problem-of-empire.md)
   * [1450-1600 - Colliding Worlds](5th/notes/1450-1600-colliding-worlds.md)
   * [1521-1700 - American Expiriments](5th/notes/1521-1700-american-expiriments.md)
   * [Historical Processes](5th/notes/historical-processes.md)
