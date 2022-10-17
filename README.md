@@ -1,5 +1,5 @@
 ---
-cover: https://bsh4.com/hUGkG6i.png
+cover: https://bsh4.com/UQOqrcy.png
 coverY: 0
 ---
 
